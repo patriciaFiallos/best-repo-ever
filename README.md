@@ -1,3 +1,5 @@
-## Crear una nueva rama (new-branch-1):
-Test Conflicto
-Rama new-branch-1
+
+## Rama new-branch-2:
+Test conflicto ramas2
+Soy una prueba de la rama new-branch-2
+
