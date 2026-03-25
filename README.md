@@ -1,2 +1,3 @@
-## Cambios hechos por Patricia para probar Git
-Este es mi primer commit editando el README.md.
+## Crear una nueva rama (new-branch-1):
+Test Conflicto
+Rama new-branch-1
